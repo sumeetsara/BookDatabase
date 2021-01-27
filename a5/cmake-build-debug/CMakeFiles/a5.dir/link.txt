@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/a5.dir/a5.cpp.o CMakeFiles/a5.dir/book.cpp.o CMakeFiles/a5.dir/database.cpp.o CMakeFiles/a5.dir/menu.cpp.o  -o a5 
